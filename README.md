@@ -5,7 +5,7 @@ The articles analyzed have two main topics. The first is related to Covid-19 and
 <b>Figure 1: Topics and related words</b>
 ![image](images/topic_plot.png)
 
-The tone of the articles is generally neutral, as one would expect of press. However, there is negative sentiment present in both main topics.
+The tone of the articles is generally neutral, as one would expect from press. However, there is negative sentiment present in both main topics.
 
 The most common people, places and organizations are related to the Kazakhstan conflict. For example, the most common people in the dataset are president of Russia Vladimir Putin and the president of Kazakhstan Jomart Tokayev; the most common Nationalities or Religious Groups (NORP) are Russian, Kazakhstani, and American; and among the most common organizations are the national security committee, the security council and the Collective Security Treaty Organization (CSTO).
 
