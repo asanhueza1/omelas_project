@@ -9,7 +9,8 @@ The most common people, places and organizations are related to the Kazakhstan c
 
 <b>Figure 2: Most Common Entities</b>
 ![image](images/most_com_ent.jpeg)
-[^fn1]:Person: people; NORP: nationalities or religious or political groups; ORG: companies, agencies, institutions; FAC: buildings, airports, highways, bridges.
+[^fn1]
+[^fn1]: Person: people; NORP: nationalities or religious or political groups; ORG: companies, agencies, institutions; FAC: buildings, airports, highways, bridges.
 
 Some key aspects of the conflict:
 - The articles highlight the poor intervention of the United States, the military, and peacekeepers intervention. 
