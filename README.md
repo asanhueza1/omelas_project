@@ -7,9 +7,8 @@ The analysis conducted over the articles dataset reveals two main topics present
 
 The most common people, places and organizations are related to the Kazakhstan conflict that  began in January 2022 due to increases in gas prices. For example, the most common people in the dataset are Vladimir Putin, president of Russia,  and Jomart Tokayev, president of Kazakhstan. At the same time, the most common Nationalities or Religious or Political Groups (NORP) are Russian, Kazakhstani, and American. Finally, among the most common organizations are the national security committee, the security council and the Collective Security Treaty Organization (CSTO).
 
-<b>Figure 2: Most Common Entities</b>
+<b>Figure 2: Most Common Entities [^fn1]</b>
 ![image](images/most_com_ent.jpeg)
-[^fn1]
 [^fn1]: Person: people; NORP: nationalities or religious or political groups; ORG: companies, agencies, institutions; FAC: buildings, airports, highways, bridges.
 
 Some key aspects of the conflict:
